@@ -3,9 +3,9 @@
 I'm CS student at Brno University of Technology and frontend developer in **@nextap-solutions**
 
 **Connect with me:**
-<a href="https://twitter.com/vojtechsisma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vojtechsisma" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/vojtěch-šišma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vojtěch-šišma" height="20" width="30" /></a>
-<a href="https://instagram.com/vojtasisma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vojtasisma" height="20" width="30" /></a>
+<a href="https://gitlab.com/vojtechsisma" target="blank"><img align="center" src="https://vojtechsisma.eu/gitlab-logo-500.png" alt="vojtechsisma" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/vojtěch-šišma" target="blank"><img align="center" src="https://vojtechsisma.eu/linked-in-alt.svg" alt="vojtěch-šišma" height="20" width="30" /></a>
+<a href="https://instagram.com/vojtasisma" target="blank"><img align="center" src="https://vojtechsisma.eu/instagram.svg" alt="vojtasisma" height="20" width="30" /></a>
 
 <br>
 
