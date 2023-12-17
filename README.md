@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend developer in **@nextap-solutions**
+Frontend developer at **@nextap-solutions**
 
 **Connect with me:**
 <a href="https://gitlab.com/vojtechsisma" target="blank"><img align="center" src="https://vojtechsisma.eu/gitlab-logo-500.png" alt="vojtechsisma" height="35" width="35" /></a>
